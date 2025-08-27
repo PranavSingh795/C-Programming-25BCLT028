@@ -5,8 +5,9 @@
     scanf ("%f",&side );
     area=side*side;
     perimeter=4*side;
-    printf ("the area of the swuare with side %f is %f\n", side,area );
-    printf ("the perimeter of the swuare with side %f is %f\n", side,perimeter );
+    printf ("the area of the square with side %f is %f\n", side,area );
+    printf ("the perimeter of the square with side %f is %f\n", side,perimeter );
  return 0;
  }
+
 
